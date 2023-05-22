@@ -15,7 +15,9 @@ Students will be able to compose a thick slide which will require them to resear
 
 ### Learning Activities
 
-At the beginning of the week students will follow the Thick Slides EduProtocol to create a mini research paper on the computer scientist of the week. See below for the template they will be using and a completed example. 
+At the beginning of the week students will follow the Thick Slides EduProtocol to create a mini research paper on the computer scientist of the week. See below for the template they will be using.
+
+<img width="758" alt="Screen Shot 2023-05-21 at 8 43 41 PM" src="https://github.com/cs-ed/impacts-HMcGuire313/assets/112279988/98b9a675-cc38-4be8-9aa6-270c46b54fbc">
 
 ### Assessment
 
